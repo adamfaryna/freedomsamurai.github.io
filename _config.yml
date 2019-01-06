@@ -79,6 +79,12 @@ html_minifier:
   silent: false
   exclude:
 
+autoprefixer:
+  exclude:
+    - '*.min.css'
+  browsers:
+    - 'last 2 versions'
+
 css_minifier:
   enable: true
   silent: false
