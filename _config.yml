@@ -72,12 +72,6 @@ pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
-all_minifier: true
-js_concator:
-  enable: false
-  bundle_path: '/js/bundle.js'
-  front: false
-  silent: false
 
 html_minifier:
   enable: true
@@ -91,14 +85,26 @@ css_minifier:
   exclude:
     - '*.min.css'
 
-js_minifier:
+# broken
+# js_minifier:
+#   enable: true
+#   mangle: true
+#   silent: false
+#   output:
+#   compress:
+#   exclude:
+#     - '*.min.js'
+
+all_minifier: true
+js_concator:
   enable: true
-  mangle: true
+  bundle_path: '/js/bundle.js'
+  front: false
   silent: false
-  output:
-  compress:
-  exclude:
-    - '*.min.js'
+
+uglify_js:
+  mangle: false
+  exclude: ['*.min.js']
 
 image_minifier:
   enable: false
@@ -108,6 +114,18 @@ image_minifier:
   pngquant: false
   progressive: false
   silent: false
+
+asset_pipeline:
+  revisioning:
+    enable: false
+  clean_css:
+    enable: true
+  uglify_js:
+    enable: false
+  imagemin:
+    enable: true
+  html_minifier:
+    enable: true
 
 ## Themes: https://hexo.io/themes/
 theme: minos
