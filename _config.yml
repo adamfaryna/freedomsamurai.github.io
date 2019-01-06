@@ -85,6 +85,7 @@ css_minifier:
   exclude:
     - '*.min.css'
 
+# broken
 # js_minifier:
 #   enable: true
 #   mangle: true
@@ -94,7 +95,6 @@ css_minifier:
 #   exclude:
 #     - '*.min.js'
 
-
 all_minifier: true
 js_concator:
   enable: true
@@ -102,9 +102,8 @@ js_concator:
   front: false
   silent: false
 
-
 uglify_js:
-  mangle: true
+  mangle: false
   exclude: ['*.min.js']
 
 image_minifier:
@@ -118,7 +117,7 @@ image_minifier:
 
 asset_pipeline:
   revisioning:
-    enable: true
+    enable: false
   clean_css:
     enable: true
   uglify_js:
