@@ -80,5 +80,5 @@ theme: minos
 deploy:
   type: git
   repo: https://github.com/freedomsamurai/freedomsamurai.github.io
-  branch: deployment
+  branch: master
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
