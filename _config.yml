@@ -144,6 +144,9 @@ feed:
   order_by: -date
   icon: icon.png
 
+tag_generator:
+  per_page: 0
+
 ## Themes: https://hexo.io/themes/
 theme: minos
 
