@@ -5,7 +5,7 @@ tags:
 ---
 
 To be hones I struggled which this for years. I always found great reason to delay important things for another
-5 min, 10 minutes, an hour... a week, get figured.
+5 min, 10 minutes, an hour, a week... forever.
 
 Back than, 7 years ago, when I first discovered inspiring, self development books and biographies of successful
 people I commited myself to change my life for better, at least I thought I was commmited. But the truth is
