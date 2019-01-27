@@ -1,5 +1,5 @@
 ---
-title: Why You Shouldn't Invite Your Friend or Family Member to Startup
+title: Why You Shouldn't Invite Your Friend or Relative to Startup
 date: 2019-01-21 09:12:24
 tags:
 - Startups
