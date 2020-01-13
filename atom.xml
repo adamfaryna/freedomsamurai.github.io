@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Freedom Samurai</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://freedomsamurai.com/"/>
+  <updated>2020-01-13T21:11:01.941Z</updated>
+  <id>https://freedomsamurai.com/</id>
+  
+  <author>
+    <name>Adam Faryna</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Why You Shouldn&#39;t Invite Your Friend or Relative to Startup</title>
+    <link href="https://freedomsamurai.com/why-you-shouldnt-invite-your-friend-or-relative-to-startup/"/>
+    <id>https://freedomsamurai.com/why-you-shouldnt-invite-your-friend-or-relative-to-startup/</id>
+    <published>2019-01-21T09:12:24.000Z</published>
+    <updated>2020-01-13T21:11:01.941Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In this post I share a bit of my startups stories and experiences with partners. Sometimes it was ridiculously funny, sometimes it was painful.&lt;/p&gt;&lt;p&gt;As you probably know, in startups world, there are no easy tasks. Everything is hard, you do everything first time, everything is new.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Startups" scheme="https://freedomsamurai.com/tags/startups/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>This is How I&#39;m Reaching my Long Term Goals When Stucked on Daily Routines</title>
+    <link href="https://freedomsamurai.com/How-I-reaching-my-long-term-goals-when-stucked-on-daily-routines/"/>
+    <id>https://freedomsamurai.com/How-I-reaching-my-long-term-goals-when-stucked-on-daily-routines/</id>
+    <published>2019-01-13T20:11:32.000Z</published>
+    <updated>2020-01-13T21:11:01.941Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;No matter what our goals are we all need time to make them happen. But every day we have to deal with some time-wasting activities or far from optimal processes (and people) that will waste all our time and energy if we are not ready to handle them.&lt;/p&gt;&lt;p&gt;Here are some basic time management strategies that I use to get the most of the day and reach my goals as planned.&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Productivity" scheme="https://freedomsamurai.com/tags/productivity/"/>
+    
+  </entry>
+  
+</feed>
